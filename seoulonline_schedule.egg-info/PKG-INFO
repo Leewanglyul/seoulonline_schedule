@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: seoulonline-schedule
+Version: 0.1.0
+Summary: 서울온라인학교 참여학교 학사일정 조회
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Requires-Dist: requests>=2.28
+
+# seoulonline_schedule

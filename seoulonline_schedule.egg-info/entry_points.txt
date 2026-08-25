@@ -1,0 +1,2 @@
+[console_scripts]
+seoulonline-schedule = seoulonline_schedule.__main__:main
