@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+seoulonline_schedule/__init__.py
+seoulonline_schedule/__main__.py
+seoulonline_schedule/schedule.py
+seoulonline_schedule/schools.py
+seoulonline_schedule.egg-info/PKG-INFO
+seoulonline_schedule.egg-info/SOURCES.txt
+seoulonline_schedule.egg-info/dependency_links.txt
+seoulonline_schedule.egg-info/entry_points.txt
+seoulonline_schedule.egg-info/requires.txt
+seoulonline_schedule.egg-info/top_level.txt
+tests/test_schedule.py
